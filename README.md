@@ -38,3 +38,4 @@ To run tests in TDD watch mode:
 To run tests once:
 
     $ grunt test:client
+
