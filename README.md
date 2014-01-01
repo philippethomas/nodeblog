@@ -1,36 +1,6 @@
 # node.js Blog Engine
 
-Backbone.js, ExpressJS & node.js, MongoDB
-
-This boilerplate app features a complete backend using node.js with ExpressJS, a data layer using MongoDB with Mongoose, and a complete front-end application built using Backbone.js (with Marionette and Browserify).  The front-end application is a simple Contacts manager.  All of the code is fairly basic yet functional.
-
-A detailed blog post covering this entire application can be found here:
-*link coming soon*
-
- * Backbone.js
-  * Handlebars
-  * Browserify
-  * Jasmine
-  * Karma
-  * Basic UI app
- * Express / Node.js
-  * Handlebars
-  * Jasmine tests
- * MongoDB
-  * Mongoose
- * Bower
-  * package.json
- * Grunt:
-  * Bower install
-  * Browserify
-  * Handlebars (precompiled)
-  * jsHinting
-  * LESS
-  * Minification/Uglification
-  * Karma test run/tdd
-  * Watchers
-  * Concatenation/Copy
-  * Concurrent runs (server, karma, mongod, etc)
+A hand written blog engine coded in node.js.  This repo is forked from my BENM repo originally.
 
 ## Requirements
 
@@ -68,7 +38,3 @@ To run tests in TDD watch mode:
 To run tests once:
 
     $ grunt test:client
-
-### Server Tests:
-
-Coming soon!
