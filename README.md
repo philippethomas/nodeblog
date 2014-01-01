@@ -1,4 +1,4 @@
-# B.E.N.M Boilerplate
+# node.js Blog Engine
 
 Backbone.js, ExpressJS & node.js, MongoDB
 
